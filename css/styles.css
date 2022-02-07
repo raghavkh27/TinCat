@@ -103,7 +103,7 @@ h3{
   text-align: center;
 }
 .title-image{
-  margin:auto;
+  margin:0;
   position: static;
   transform: rotate(0deg);
 }
